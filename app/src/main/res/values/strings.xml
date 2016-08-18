@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dos Caras</string>
+    <string name="main.message">Tome una fotografia</string>
+    <string name="main.image.details.header">Detalles:</string>
+    <string name="main.image.preview.header">Vista previa:</string>
+    <string name="main.loading.message">Subiendo imagen para procesar...</string>
+
+    <string name="menu.dialog.select.prompt">Seleccione un metodo</string>
+    <string name="menu.dialog.select.camera">Camara</string>
+    <string name="menu.dialog.select.gallery">Galeria</string>
+
+    <string name="main.image.picker.error">Ocurrio un error con la imagen, intente con otra</string>
+</resources>
